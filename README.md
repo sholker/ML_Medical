@@ -9,9 +9,9 @@ This repository/project develops an interpretable, fair, and calibrated machine 
 
 ## 🔗 Project Links
 
-* **Article:** [Predicting Major Interventions through Network Medicine using Machine Learning]()
+* **Article:** [Predicting Major Interventions through Network Medicine using Machine Learning](Predicting Major Interventions through Network Medicine using Machine Learning.pdf)
 * **Colab Notebook:** [Predicting Major Interventions Notebook](Predicting_Major_Interventions_through_Network_Medicine_using_Machine_Learning.ipynb)
-
+* **DataSets files:** [MIMIC_DS.zip][MIMIC_DS.zip]
 ---
 **Project Objective & Research Question**
 The primary objective of this project is to develop an interpretable, fair, and calibrated Machine Learning framework to predict the requirement for major clinical interventions upon hospital admission using Electronic Health Record (EHR) data from the MIMIC-IV database.
