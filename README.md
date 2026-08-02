@@ -15,6 +15,7 @@ This repository/project develops an interpretable, fair, and calibrated machine 
 ---
 **Project Objective & Research Question**
 The primary objective of this project is to develop an interpretable, fair, and calibrated Machine Learning framework to predict the requirement for major clinical interventions upon hospital admission using Electronic Health Record (EHR) data from the MIMIC-IV database.
+
 **Research Question**
 "To what extent can Network Medicine features and unsupervised patient archetypes, when combined with explainable tree-based ensemble algorithms, accurately and fairly forecast the early need for major invasive medical procedures upon hospital admission without compromising demographic equity?"
 
