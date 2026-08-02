@@ -10,7 +10,7 @@ This repository/project develops an interpretable, fair, and calibrated machine 
 ## 🔗 Project Links
 
 * **Article:** [Predicting Major Interventions through Network Medicine using Machine Learning]()
-* **Colab Notebook:** [Predicting Major Interventions Notebook]()
+* **Colab Notebook:** [Predicting Major Interventions Notebook](Predicting_Major_Interventions_through_Network_Medicine_using_Machine_Learning.ipynb)
 
 ---
 **Project Objective & Research Question**
